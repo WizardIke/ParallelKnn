@@ -1,0 +1,6 @@
+*.sh text eol=lf
+*.bat text eol=crlf
+*.txt -crlf
+killall text eol=lf
+*.bk text eol=lf
+.java text eol=input
